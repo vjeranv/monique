@@ -11,3 +11,8 @@ Dataset
 -------
 
 We have collected a detaset of depth vs ages.
+
+Method
+------
+
+Great method. The best.
