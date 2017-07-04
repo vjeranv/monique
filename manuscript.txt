@@ -5,7 +5,7 @@ My Paper
 Intro
 -----
 
-Great paper, the best paper, better than the other papers you might have read.
+Even better paper, the best paper, better than the other papers you might have read. Changes just make it better.
 
 Dataset
 -------
